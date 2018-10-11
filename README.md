@@ -1,2 +1,5 @@
 # hackoctoberfest
-My first project...Sorry!!, its just a random description...
+My first project...
+
+This is my first Commit.
+THisi is my second COmmit
