@@ -1,2 +1,2 @@
 # hackoctoberfest
-My first project...Sorry!!, its just a random description..
+My first project...Sorry!!, its just a random description...
